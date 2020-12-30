@@ -1,15 +1,19 @@
 # sciwebapps
 A repository for resources, information, discussions, and suggested practices for creating, communicating, and improving Scientific Web Applications. 
 
+# Contributing
+how to contribute will go here. all welcome. __open source resources only__, unless the resource is extremely important. 
+
+
 # Contents
- * [checklists](./checklists)
+ * [CHECKLISTS](./checklists)
    * [overview](./overview-checklist.md/)
    * [a11y](./a11y-checklist.md/)
    * [dissemination-and-publication](./dissemination-and-publication-checklist.md/)
    * [documentation](./documentation-checklist.md/)
    * [technical-development](./technical-development-checklist.md/)
    * [usability-testing](./usability-testing-checklist.md/)
- * [learn](./learn)
+ * [LEARN](./learn)
    * [a11y](./a11y/)
    * [archiving](./archiving/)
    * [communications-and-marketing](./communications-and-marketing/)
@@ -23,8 +27,7 @@ A repository for resources, information, discussions, and suggested practices fo
    * [speed-and-performance](./speed-and-performance/)
    * [usability](./usability/)
    * [web-development](./web-development/)
-<!--   * [](.//)
--->   
+ * [TOOLS](./tools)
  * [LICENSE](./LICENSE)
  * [NEWS](./NEWS.md)
  * [README.md](./README.md)
