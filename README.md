@@ -1,5 +1,5 @@
 # sciwebapps
-A repository for resources, information, discussions, and suggested practices for creating, communicating, and improving Scientific Web Applications. 
+A open source and community-driven repository for resources, information, discussions, and suggested practices for creating, communicating, and improving Scientific Web Applications. 
 
 # Contributing
 - how to contribute will go here. all welcome. __open source resources only__, unless the resource is extremely important. 
