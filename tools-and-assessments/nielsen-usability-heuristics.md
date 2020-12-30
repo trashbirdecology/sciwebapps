@@ -4,7 +4,7 @@ authors: Jessica Burnett drawn from Jakob Nielsen's 10 Usability Heuristics
 type: table, resource, usability, nielsen
 ---
 
-The original Nielsen Heuristics[^1] and descriptions, with relevant element or attribute types and prompts for evaluating them. 
+The original Nielsen Heuristics<sup>[1]</sup> and descriptions, with relevant element or attribute types and prompts for evaluating them. 
 
 
 | Nielsen Heuristic | Heuristic Description                                 | Attribute Types | Attribute Description                                                                                                                 | Attribute Characteristics | Attribute-characteristic Description                                                                         | Attribute Features                                                      | Appropriateness high                                                                                                                                               | Appropriateness low                                                                                                                                                                                                                                           |
