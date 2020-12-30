@@ -2,19 +2,24 @@
 A repository for resources, information, discussions, and suggested practices for creating, communicating, and improving Scientific Web Applications. 
 
 # Contents
-├── learning (recommended readings or learning tools)  
-│   	  ├──    
-├── checklists  
-│   	  ├──  general.md  
-│   	  ├──  a11y.md   
-│   	  ├──  speed.md   
-│   	  ├──  security.md  
-│   	  ├──  planning.md   
-│   	  ├──  maintenance-and-sustainability.md   
-│   	  ├──  .md   
-├── LICENSE   
-├── NEWS.md  
-└── README.md  
+ * [learning](./tree-md)
+   * [a11y](./a11y/)
+   * [archiving](./archiving/)
+   * [communications-and-marketing](./communications-and-marketing/)
+   * [development-platforms](./development-platforms/)
+   * [documentation](./documentation/)
+   * [end-users](./end-users/)
+   * [hosting](./hosting/)  
+   * [maintenance](./maintenance/)
+   * [security](./security/)
+   * [speed-and-performance](./speed-and-performance/)
+   * [usability](./usability/)
+   * [web-development](./web-development/)
+<!--   * [](.//)
+-->   
+ * [LICENSE](./LICENSE)
+ * [NEWS](./NEWS.md)
+ * [README.md](./README.md)
 
 # News
 2020-12-30: 
