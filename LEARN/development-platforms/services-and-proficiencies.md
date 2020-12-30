@@ -2,7 +2,8 @@
 title: Common web application development platforms and the types of services they provide, and associated skills and proficiencies needed to use them.
 authors: Aulenbach, Burnett, Dale, Wellman
 type: table, resource
-----
+
+---
 
 | Platform | Product type | Developing tool | Advanced aesthetics (optional) | Advantages | Disadvantages | Service: Visualization | Service: Analytics | Service: Exportable results | Service: Produces Reports | Computing 'power' | 508 Compliant |
 |--------------------------------------------------------------------------------------------------|------------------------|-----------------|--------------------------------|-----------------------------------------------------------------------------------|---------------------------------------------------------------|---------------|-----------|--------------------|---------|-------------------|----------------|
