@@ -4,7 +4,7 @@ A repository for resources, information, discussions, and suggested practices fo
 # Contributing
 how to contribute will go here. all welcome. __open source resources only__, unless the resource is extremely important. 
 
-all contributors must adhere to the [code of conduct](./code-of-conduct.md) 
+all contributors must adhere to the [code of conduct](./code_of_conduct.md) 
 
 # Contents
  * [CHECKLISTS](./checklists)
@@ -30,6 +30,7 @@ all contributors must adhere to the [code of conduct](./code-of-conduct.md)
    * [web-development](./web-development/)
  * [TOOLS](./tools)
  * [LICENSE](./LICENSE)
+ * [CODE_OF_CONDUCT](./code_of_conduct.md)
  * [NEWS](./NEWS.md)
  * [README.md](./README.md)
 
