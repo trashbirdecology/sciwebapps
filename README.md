@@ -7,17 +7,20 @@ how to contribute will go here. all welcome. __open source resources only__, unl
 all contributors must adhere to the [code of conduct](./code_of_conduct.md) 
 
 # Contents
- * [CHECKLISTS](./checklists)
+ * [CHECKLISTS](./checklists): a series of checklists for researchers involved in scientific web application projects
    * [overview](./overview-checklist.md/)
+<!--
    * [a11y](./a11y-checklist.md/)
    * [dissemination-and-publication](./dissemination-and-publication-checklist.md/)
    * [documentation](./documentation-checklist.md/)
    * [technical-development](./technical-development-checklist.md/)
    * [usability-testing](./usability-testing-checklist.md/)
- * [LEARN](./learn)
-   * [a11y](./a11y/)
-   * [archiving](./archiving/)
-   * [communications-and-marketing](./communications-and-marketing/)
+-->
+ * [LEARN](./resources): curated resources, including educational materials, community standards, organizations, and tools for learning more about scientific web application design, development, deployment, and dissemination.
+   * [a11y (digital accessibility)](./learn/a11y.md)
+   * [development platforms](./learn/dev-platforms.md)
+<!--
+* [communications-and-marketing](./communications-and-marketing/)
    * [development-platforms](./development-platforms/)
    * [documentation](./documentation/)
    * [end-users](./end-users/)
@@ -28,7 +31,7 @@ all contributors must adhere to the [code of conduct](./code_of_conduct.md)
    * [speed-and-performance](./speed-and-performance/)
    * [usability](./usability/)
    * [web-development](./web-development/)
- * [TOOLS](./tools)
+-->
  * [LICENSE](./LICENSE)
  * [CODE_OF_CONDUCT](./code_of_conduct.md)
  * [NEWS](./NEWS.md)
