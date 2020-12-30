@@ -2,7 +2,14 @@
 A repository for resources, information, discussions, and suggested practices for creating, communicating, and improving Scientific Web Applications. 
 
 # Contents
- * [learning](./tree-md)
+ * [checklists](./checklists)
+   * [overview](./overview-checklist.md/)
+   * [a11y](./a11y-checklist.md/)
+   * [dissemination-and-publication](./dissemination-and-publication-checklist.md/)
+   * [documentation](./documentation-checklist.md/)
+   * [technical-development](./technical-development-checklist.md/)
+   * [usability-testing](./usability-testing-checklist.md/)
+ * [learn](./learn)
    * [a11y](./a11y/)
    * [archiving](./archiving/)
    * [communications-and-marketing](./communications-and-marketing/)
