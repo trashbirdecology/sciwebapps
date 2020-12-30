@@ -9,8 +9,8 @@ A open source and community-driven repository for resources, information, discus
  * [CHECKLISTS](./checklists): a series of checklists for researchers involved in scientific web application projects
    * [overview](./overview-checklist.md/)
  * [LEARNING RESOURCES](./resources): curated resources, including educational materials, community standards, organizations, and tools for learning more about scientific web application design, development, deployment, and dissemination.
-   * [a11y (digital accessibility)](./learn/a11y.md)
-   * [development platforms](./learn/dev-platforms.md)
+   * [a11y (digital accessibility)](./learning-resources/a11y.md)
+   * [development platforms](./learning-resources/dev-platforms.md)
  * [CONCEPTS](./concepts/): non-standard concepts related to scientific web app development and communication 
    * [motivations for creating a web app](./concepts/motivations-for-creating-a-web-app.md)
    * [FAIR guiding principles adapted for sciwebapps](./concepts/FAIR-adapted-for-sciwebapps.md)
