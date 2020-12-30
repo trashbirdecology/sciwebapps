@@ -16,6 +16,7 @@ A repository for resources, information, discussions, and suggested practices fo
    * [development-platforms](./development-platforms/)
    * [documentation](./documentation/)
    * [end-users](./end-users/)
+   * [FAIR](./FAIR/)
    * [hosting](./hosting/)  
    * [maintenance](./maintenance/)
    * [security](./security/)
