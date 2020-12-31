@@ -2,19 +2,20 @@
 A open source and community-driven repository for resources, information, discussions, and suggested practices for creating, communicating, and improving Scientific Web Applications. 
 
 # Contributing
-- how to contribute will go here. all welcome. __open source resources only__, unless the resource is extremely important. 
-- __all contributors must adhere to the [code of conduct](./code_of_conduct.md) __
+- __All contributors must adhere to the [code of conduct](./code_of_conduct.md) __
+- Submit a pull request with any suggested edits, updates or deletions.
+- For major edits to repository or its structure, please [submit an Issue](https://github.com/trashbirdecology/sciwebapps/issues/new) first.
 
 # Repository Contents
  * [CHECKLISTS](./checklists): a series of checklists for researchers involved in scientific web application projects
-   * [overview](./overview-checklist.md/)
+   * [overview-checklist.md](./overview-checklist.md/)
  * [LEARNING RESOURCES](./resources): curated resources, including educational materials, community standards, organizations, and tools for learning more about scientific web application design, development, deployment, and dissemination.
    * [a11y (digital accessibility)](./learning-resources/a11y.md)
    * [development platforms](./learning-resources/dev-platforms.md)
  * [CONCEPTS](./concepts/): non-standard concepts related to scientific web app development and communication 
    * [motivations for creating a web app](./concepts/motivations-for-creating-a-web-app.md)
    * [FAIR guiding principles adapted for sciwebapps](./concepts/FAIR-adapted-for-sciwebapps.md)
- * [TOOLS and ASSESSMENTS](./tools-and-assessments/): curated list of online tools and community-generated self-evaluations for various aspects of scientific web app development 
+ * [TOOLS and ASSESSMENTS](./tools-and-assessments/): curated list of online tools and author-generated self-evaluations for various aspects of scientific web app development 
    * [general-eval](general-eval.md)
  * [LICENSE](./LICENSE)
  * [CODE_OF_CONDUCT](./code_of_conduct.md)
