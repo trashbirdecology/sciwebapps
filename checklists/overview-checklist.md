@@ -8,5 +8,3 @@ Please refer to the [./checklists/](./checklists/) directory for more detailed c
 - [ ] Described the average technical skills or relevant background knowledge of your typical end user (the people with the problem defined above
 - [ ] Described the _solution_ you will provide to those end users
 - [ ] Describe the minimum required functions or features your web app needs to provide for providing that solution
-
-## 
